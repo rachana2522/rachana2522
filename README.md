@@ -37,13 +37,7 @@
       <li>📊 <b>Algorithm | Data Structures</b>.</li>
       <li>✂️ <b>Figma | UX/UI</b>.</li>
     </ul><br>
-  
-  
-  
-  
-<!-- STATS SECTION --> 
-# <div align="center"><img height="45px" width="45px" src="eye.gif" align="center">&nbsp;&nbsp;Stats
-  </div>
+ 
 <!-- CONNECT ME SECTION -->
 # <div align="center"><img height="45px" width="45px" src="Gifs/Connect.gif" align="center">&nbsp;&nbsp;Connect with me
   </div>
@@ -57,4 +51,5 @@
       <img src="gmail.svg" alt="@mail" width="27px" align="center">
     </a><br>
   </div>
+  </html>
 
