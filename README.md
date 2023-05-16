@@ -31,8 +31,8 @@
    </div>
   <!-- TECHNOLOGIES LIST -->
     <ul>
-      <li>💻 <b>HTML| CSS | JavaSricpt</b>.</li>
-      <li>🔧 <b>C | java | python</b>.</li>
+      <li>💻 <b>HTML| CSS | JavaSricpt | Laravel</b>.</li>
+      <li>🔧 <b>Php| java | python</b>.</li>
       <li>🔨 <b>Visual Studio |Git</b>.</li>
     </ul><br>
  
