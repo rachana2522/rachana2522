@@ -18,7 +18,7 @@
   <ul>
     <li>🌈 I’m currently working on my <b>Web development </b>.</li>
     <li>🌱 I’m currently pursuing my <b>Btech</b> degree in <b>Computer Science</b>.</li>
-    <li>💗 I love to design website <b>UX|UI</b>.</li>
+    <li>💗 I love to design website <b></b>.</li>
     <li>📄  Currently, I'am exploring my <b>Frontend </b> concepts.</li>
     <li>⚡ I believe that <b>Dream it,wish it and do it</b>.</li>
   </ul><br>
@@ -33,9 +33,7 @@
     <ul>
       <li>💻 <b>HTML| CSS | JavaSricpt</b>.</li>
       <li>🔧 <b>C | java | python</b>.</li>
-      <li>🔨 <b>Visual Studio | Eclipse |Git</b>.</li>
-      <li>📊 <b>Algorithm | Data Structures</b>.</li>
-      <li>✂️ <b>Figma | UX/UI</b>.</li>
+      <li>🔨 <b>Visual Studio |Git</b>.</li>
     </ul><br>
  
 <!-- CONNECT ME SECTION -->
